@@ -3,7 +3,7 @@
 How to GWAS
 
 ## Usage
-The jupyter notebooks can be used in the an executable environment by clicking the Binder badge above.
+The jupyter notebooks can be used in an executable environment by clicking the Binder badge above.
 
 To use the notebooks locally, download the notebook(s) of choice and from that directory run
 
